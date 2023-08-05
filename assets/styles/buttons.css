@@ -1,0 +1,29 @@
+.btn {
+    border: none;
+    color: white;
+    background-color: #1ac0c6;
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, .2);
+    display: inline-block;
+}
+
+.btn-lg {
+    padding: .8rem 1.8rem;
+    font-size: 1.3rem;
+    font-weight: 900;
+    border-radius: .4rem;
+}
+
+.btn-medium {
+    padding: .6rem 1.4rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: .4rem;
+}
+
+
+.btn-sm {
+    padding: .4rem 8rem;
+    font-size: .8rem;
+    font-weight: 500;
+    border-radius: .4rem;
+}

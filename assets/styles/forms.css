@@ -1,0 +1,30 @@
+.form-group{
+    max-width: 100%;
+}
+
+.form-label {
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+fieldset {
+    margin: 0;
+}
+
+.form-control{
+    padding: .6rem .6rem;
+    width: 100%;
+    margin: 4px 0;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: var(--primary-text-color);
+    display: inline-block;
+    outline: none;
+}
+
+.form-group-inline{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
